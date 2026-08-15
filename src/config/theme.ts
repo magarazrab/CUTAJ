@@ -1,0 +1,1 @@
+export const theme={name:'NebulaCut Cosmic Studio',colors:{void:'#050713',panel:'rgba(18,24,52,.72)',cyan:'#42f5ff',violet:'#9b5cff',gold:'#ffd166',danger:'#ff4d7d'},radius:{card:28,pill:999},shadow:{glow:'0 18px 60px rgba(66,245,255,.22)'}};
